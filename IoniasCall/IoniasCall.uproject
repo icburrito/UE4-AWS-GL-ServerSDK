@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{42F74623-4125-3EC3-47D8-ADBD42ED0CB9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "IoniasCall",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameLiftServerSDK",
+			"Enabled": true
+		}
+	]
+}

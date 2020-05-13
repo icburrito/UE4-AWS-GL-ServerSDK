@@ -1,0 +1,285 @@
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Intermediate\Build\Win64\UE4Editor\Development\GameLiftServerSDK\Definitions.GameLiftServerSDK.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\GameLiftServerSDK.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/common/Outcome.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/common/GameLiftErrors.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/common/GameLift_EXPORTS.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\vector
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/DescribePlayerSessionsResult.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/PlayerSession.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/PlayerSessionStatus.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/StartMatchBackfillResult.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\future
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\condition_variable
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\mutex
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\vcruntime_startup.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xthreads.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\functional
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ppltasks.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\pplwin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\pplinterface.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ppltaskscheduler.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\pplcancellation_token.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\algorithm
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/GameLiftServerAPI.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/DescribePlayerSessionsRequest.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/StartMatchBackfillRequest.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/Player.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/AttributeValue.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/StopMatchBackfillRequest.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/ProcessParameters.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/GameSession.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/GameSessionStatus.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/PlayerSessionCreationPolicy.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/GameProperty.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/UpdateGameSession.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/model/UpdateReason.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\aws/gamelift/server/LogParameters.h
+E:\UE_Projects\IoniasCall\Plugins\GameLiftServerSDK\Source\GameLiftServerSDK\Public\GameLiftServerSDKModels.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xtree
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Core.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc\Change.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/SingleThreadRunnable.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Math/SHMath.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/CircularBuffer.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/AutomationTest.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Async/Future.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Async/Async.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+E:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+E:\UE_4.24\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+E:\UE_4.24\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+E:\UE_4.24\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+E:\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\UE_4.24\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+E:\UE_4.24\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+E:\UE_4.24\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+E:\UE_4.24\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+E:\UE_4.24\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
